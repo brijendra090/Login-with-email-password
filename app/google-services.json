@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205314184152",
+    "firebase_url": "https://mytestapp-a8881.firebaseio.com",
+    "project_id": "mytestapp-a8881",
+    "storage_bucket": "mytestapp-a8881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205314184152:android:f6d4a6ec92c7772d4a98ad",
+        "android_client_info": {
+          "package_name": "com.crackcode.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205314184152-997f725ufevertb5feqrgqd4nolupt06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANlIctUFDsjfQFbM2JfVRTYWGnwfAamg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205314184152-997f725ufevertb5feqrgqd4nolupt06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
